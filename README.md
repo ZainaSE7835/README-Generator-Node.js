@@ -14,7 +14,7 @@
 README generator is a command line application that creates a README file for the user using their responses to a set of prompt questions
 
 ## Usage
-The user should enter "node index.js" in the terminal, and answer the lquestions displayed.
+The user should enter "node index.js" in the terminal, and answer the questions displayed.
 
 ## Tests
 N/A
