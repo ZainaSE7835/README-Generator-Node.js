@@ -12,7 +12,6 @@ https://user-images.githubusercontent.com/118269226/221376931-f0d7f652-8e3c-4684
 - [Installation](#Installation)
 - [Contribution](#Contribution)
 - [Credits](#Credits)
-- [Contacts](#Contacts)
 - [License](#License)
 
 ## Description
