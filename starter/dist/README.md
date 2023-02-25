@@ -1,7 +1,7 @@
-# 
-by 
+# README Generator
+by ZainaSE7835
 
-(https://img.shields.io/badge/License--yellow.svg)
+(https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Table of contents
 - [Description](#description)
@@ -14,28 +14,28 @@ by
 - [License](#License)
 
 ## Description
-
+Generates README file for user
 
 ## Usage
-
+Type "node index.js" and answer questions 
 
 ## Tests
-
+N/A
 
 ## Installation
-
+N/A
 
 ## Contribution
-
+N/A
 
 ## Credits
-
+N/A
 
 ## Contacts
-- Username - 
-- GitHub - (https://github.com//)
+- Username - ZainaSE7835
+- GitHub - README-Generator-Node.js(https://github.com/ZainaSE7835/README-Generator-Node.js/)
 - Email - [](https:/)
 
 ## License
-
-(https://img.shields.io/badge/License--yellow.svg)
+MIT
+(https://img.shields.io/badge/License-MIT-yellow.svg)

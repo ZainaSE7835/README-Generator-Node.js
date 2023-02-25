@@ -42,7 +42,7 @@ ${data.credits}
 
 ## Contacts
 - Username - ${data.username}
-- GitHub - ${data.GitHub}(https://github.com/${data.GitHub}/)
+- GitHub - ${data.GitHub}(https://github.com/${data.username}/${data.GitHub}/)
 - Email - [${data.email}](https:${data.email}/)
 
 ## License
